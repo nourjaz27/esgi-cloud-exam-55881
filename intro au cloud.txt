@@ -1,0 +1,9 @@
+intro au cloud : 
+revoir render 
+crée un serveur http qui va écouter les requête entrante 
+revoir le fichier jayson 
+dans model fichier user on des champs pour vont carstrestiquer ma base de données 
+on va crée une base de données sur render et la liée a notre projet (on doit communiquer d'une façon propre notre base de données pas la mettre directement)
+post greb que MySQL c'est mieux car post gray est plus performant que MySQL 
+quand on veut communiquer avec un système on va utiliser quoi pour connecter le code et la base de données par exemple je vais avoir 3 bases de données et elles vont toutes se connecter au meme code donc on va utiliser ( variable d'environnent)
+ 
